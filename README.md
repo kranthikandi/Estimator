@@ -9,7 +9,7 @@ gem 'gmaps4rails'.
 
 # Challenges
 Creating the Schema.
-Mapping the Json(Providers) and Displaying on the UI.
+Mapping the Json(Providers) and Displaying on the UI."\n"
 Parsing the Json(Providers) and Creating Markers on Gmaps.
 Google map Places API to Auto complete and point markers on Map.
 
