@@ -8,4 +8,9 @@ gem 'geocoder'
 gem 'gmaps4rails'
 
 # Challenges
-Creating the Schema 
+Creating the Schema.
+Mapping the Json(Providers) and Displaying on the UI.
+Parsing the Json(Providers) and Creating Markers on Gmaps.
+Google map Places API to Auto complete and point markers on Map.
+
+
